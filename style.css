@@ -1,0 +1,58 @@
+html,
+body {
+    margin: 0;
+    left: 100px;
+    padding: 0;
+    background-color: #000;
+    font-family: 'Courier';
+    color: #FFF;
+    font-size: 12pt;
+    line-height: 18pt;
+    align-content: center;
+}
+
+canvas {
+    display: block;
+}
+
+
+asciiDiv {
+    align-content: center;
+
+
+}
+
+.img1 {
+    width: 1920px;
+    height: 1080px;
+    position: absolute;
+
+}
+
+.img2 {
+    width: 1920px;
+    height: 1080px;
+    position: absolute;
+
+}
+
+.img3 {
+    width: 1920px;
+    height: 1080px;
+    position: absolute;
+
+}
+
+.img4 {
+    width: 1080px;
+    height: 720px;
+    position: absolute;
+
+}
+
+.img5 {
+    width: 720px;
+    height: 360px;
+    position: absolute;
+    top: 500px;
+}
